@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\models\\classroom .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\models\\classroom .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8744B0-30DD-4491-A73C-51F65ACFA0BA}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8744B0-30DD-4491-A73C-51F65ACFA0BA}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\models\\student .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\models\\student .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\exceptions\\studentnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\exceptions\\studentnotfoundexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\exceptions\\outoflimitexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\exceptions\\outoflimitexception .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\enums\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp14\\core\\enums\\informationfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE040AA-DBF8-48B6-BC52-B10C16671020}|Core\\Core.csproj|solutionrelative:core\\enums\\informationfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Enums\\Menu.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\Menu.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Enums\\Menu.cs",
+              "RelativeToolTip": "Core\\Enums\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:47:08.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InformationField.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Enums\\InformationField.cs",
+              "RelativeDocumentMoniker": "Core\\Enums\\InformationField.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Enums\\InformationField.cs",
+              "RelativeToolTip": "Core\\Enums\\InformationField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:45:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutOfLimitException .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Exceptions\\OutOfLimitException .cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\OutOfLimitException .cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Exceptions\\OutOfLimitException .cs",
+              "RelativeToolTip": "Core\\Exceptions\\OutOfLimitException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:32:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentNotFoundException .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Exceptions\\StudentNotFoundException .cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\StudentNotFoundException .cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Exceptions\\StudentNotFoundException .cs",
+              "RelativeToolTip": "Core\\Exceptions\\StudentNotFoundException .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:30:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "helper.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\helper\\helper.cs",
+              "RelativeDocumentMoniker": "Core\\helper\\helper.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\helper\\helper.cs",
+              "RelativeToolTip": "Core\\helper\\helper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAGsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:53:26.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Models\\Student .cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Student .cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Models\\Student .cs",
+              "RelativeToolTip": "Core\\Models\\Student .cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:49:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Classroom .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Models\\Classroom .cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Classroom .cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\Core\\Models\\Classroom .cs",
+              "RelativeToolTip": "Core\\Models\\Classroom .cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:41:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAGoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:40:16.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
